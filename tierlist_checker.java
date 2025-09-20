@@ -937,7 +937,7 @@
                     templateLabel.style.backgroundColor = '#273249';
                 }
                 let infix = templateLabel.innerText ? "|" : "";
-                templateLabel.innerText = templateLabel.innerText + infix + alternateLabel('steamT2🥇', topTemplate);
+                templateLabel.innerText = templateLabel.innerText + infix + alternateLabel('steamT2🥈', topTemplate);
                 templateLabel.style.padding = '6px';
             } else if (SteamCollectionT3[topTemplate] && SteamCollectionT3[topTemplate].includes(Number(paintseed))) {
                 SteamHit = true;
