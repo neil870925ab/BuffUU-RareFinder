@@ -1,5 +1,3 @@
-# CS2飾品撿漏大師（改良版 by Neil）
-
 本腳本基於 [Jack Mr 的原始腳本](https://www.csgo2.wiki/article/RareHunter) 改良而成，提供更多實用功能以及飾品清單(持續更新)，幫助玩家在 **Buff** 與 **UU（youpin898）** 平台更快找到目標飾品。
 
 ## ✨ 功能特色
@@ -19,6 +17,15 @@
 5. 允許'允許存取檔案網址'
 6. 允許'收集錯誤資訊'
 7. 重新刷新Buff或UU介面即可使用
+
+## 📸 介面截圖
+<img width="1217" height="1233" alt="image" src="https://github.com/user-attachments/assets/beebf078-b896-4290-8478-445be7554fd6" />
+<img width="1213" height="1248" alt="image" src="https://github.com/user-attachments/assets/07f4209b-ae41-41f3-bffd-1504417f75d3" />
+<img width="1214" height="1210" alt="image" src="https://github.com/user-attachments/assets/a25609e3-8ea6-4020-a75e-666eaa5a6cff" />
+<img width="541" height="471" alt="image" src="https://github.com/user-attachments/assets/484bceb3-275f-473a-a5ef-3efb75aa7df2" />
+
+
+
 
 ## 🛠 支援飾品清單 (持續更新)
 - 蝴蝶刀(都普勒/嘎瑪/漸變大理石)全系列，不含黑珍珠
