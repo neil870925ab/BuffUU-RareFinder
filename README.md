@@ -13,7 +13,7 @@
 
 ## 📦 安裝方式 (以Chrome舉例)
 1. 請確保已事先安裝 [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl) 瀏覽器擴充功能。  
-2. 點擊 **安裝此腳本** 安裝這個撿漏大師腳本。 
+2. 點擊 **安裝腳本** 安裝這個[撿漏大師腳本](https://greasyfork.org/zh-TW/scripts/550173-cs2%E9%A3%BE%E5%93%81%E6%92%BF%E6%BC%8F%E5%A4%A7%E5%B8%AB-%E5%85%A5%E6%AA%94%E6%A8%A1%E6%9D%BF%E4%BB%A5%E5%8F%8A%E6%AD%B7%E5%8F%B2%E5%83%B9%E6%A0%BC%E6%9F%A5%E8%A9%A2-%E6%94%B9%E8%89%AF%E7%89%88by-neil)。 
 3. 對'Tampermonkey'擴充功能右鍵點擊管理擴充功能
 4. 開啟彈出視窗右上角的'開發人員模式'
 5. 允許'允許存取檔案網址'
