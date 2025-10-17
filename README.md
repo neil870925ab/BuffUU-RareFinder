@@ -17,7 +17,8 @@
 5. 允許'允許使用者指令碼'
 6. 允許'允許存取檔案網址'
 7. 允許'收集錯誤資訊'
-8. 重新刷新Buff或UU介面即可使用
+8. 關閉並重新開啟竄改猴的"撿漏腳本"使其刷新狀態
+9. 重新刷新Buff或UU介面即可使用
 
 ## 📸 介面截圖
 <img width="1217" height="1233" alt="image" src="https://github.com/user-attachments/assets/beebf078-b896-4290-8478-445be7554fd6" />
