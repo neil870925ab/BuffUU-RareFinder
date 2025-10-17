@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CS2飾品撿漏大師 - 入檔模板以及歷史價格查詢（改良版by Neil）
 // @namespace    https://github.com/neil870925ab/BuffUU-RareFinder
-// @version      7.0.0.0
+// @version      7.0.0.1
 // @description  改良自Jack Mr的版本，同時具備Steam與CS2Wiki的Tier List，且增加飾品數量，提供Tier List連結。
 // @author       Jack Mr & Neil
 // @match        *://*.youpin898.com/*
@@ -1341,3 +1341,4 @@
 
     });
 })();
+
