@@ -14,9 +14,10 @@
 2. 點擊 **安裝腳本** 安裝這個[撿漏大師腳本](https://greasyfork.org/zh-TW/scripts/550173-cs2%E9%A3%BE%E5%93%81%E6%92%BF%E6%BC%8F%E5%A4%A7%E5%B8%AB-%E5%85%A5%E6%AA%94%E6%A8%A1%E6%9D%BF%E4%BB%A5%E5%8F%8A%E6%AD%B7%E5%8F%B2%E5%83%B9%E6%A0%BC%E6%9F%A5%E8%A9%A2-%E6%94%B9%E8%89%AF%E7%89%88by-neil)。 
 3. 對'Tampermonkey'擴充功能右鍵點擊管理擴充功能
 4. 開啟彈出視窗右上角的'開發人員模式'
-5. 允許'允許存取檔案網址'
-6. 允許'收集錯誤資訊'
-7. 重新刷新Buff或UU介面即可使用
+5. 允許'允許使用者指令碼'
+6. 允許'允許存取檔案網址'
+7. 允許'收集錯誤資訊'
+8. 重新刷新Buff或UU介面即可使用
 
 ## 📸 介面截圖
 <img width="1217" height="1233" alt="image" src="https://github.com/user-attachments/assets/beebf078-b896-4290-8478-445be7554fd6" />
