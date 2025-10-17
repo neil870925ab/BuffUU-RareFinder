@@ -7,7 +7,7 @@
 - 增加更多飾品模板的 Tier List 資訊
 - 一鍵查詢 **歷史價格** 與 **模板價格** (透過SteamDT查詢)
 - 直觀的介面標籤（`wikiT1` / `steamT2` 轉換）
-- 發出"嗶嗶"兩聲蜂鳴聲作為提示音效，提醒使用者該頁面有寶藏
+- 發出"嗶嗶"兩聲蜂鳴聲作為提示音效，提醒使用者該頁面有寶藏 (目前未開放)
 
 ## 📦 安裝方式 (以Chrome舉例)
 1. 請確保已事先安裝 [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl) 瀏覽器擴充功能。  
