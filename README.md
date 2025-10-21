@@ -1,5 +1,5 @@
 本腳本基於 [Jack Mr 的原始腳本](https://www.csgo2.wiki/article/RareHunter) 改良而成，提供更多實用功能以及飾品清單(持續更新)，幫助玩家在 **Buff** 與 **UU（youpin898）** 平台更快找到目標飾品。
-## 🦊 當前版本
+## 🦊 最新版本
 Version: 7.0.0.2
 
 ## ✨ 功能特色
