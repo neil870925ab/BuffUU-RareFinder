@@ -16,9 +16,9 @@ Version: "7.0.0.3"
 2. 點擊 **安裝腳本** 安裝這個[撿漏大師腳本](https://greasyfork.org/zh-TW/scripts/550173-cs2%E9%A3%BE%E5%93%81%E6%92%BF%E6%BC%8F%E5%A4%A7%E5%B8%AB-%E5%85%A5%E6%AA%94%E6%A8%A1%E6%9D%BF%E4%BB%A5%E5%8F%8A%E6%AD%B7%E5%8F%B2%E5%83%B9%E6%A0%BC%E6%9F%A5%E8%A9%A2-%E6%94%B9%E8%89%AF%E7%89%88by-neil)。 
 3. 對'Tampermonkey'擴充功能右鍵點擊管理擴充功能
 4. 開啟彈出視窗右上角的'開發人員模式'
-5. 允許'允許使用者指令碼'
-6. 允許'允許存取檔案網址'
-7. 允許'收集錯誤資訊'
+5. 允許'允許使用者指令碼' (不同版本的Chrome可能不一定有此選項)
+6. 允許'允許存取檔案網址' (不同版本的Chrome可能不一定有此選項)
+7. 允許'收集錯誤資訊' (不同版本的Chrome可能不一定有此選項)
 8. 關閉並重新開啟竄改猴的"撿漏腳本"使其刷新狀態
 9. 重新刷新Buff或UU介面即可使用
 
@@ -28,8 +28,6 @@ Version: "7.0.0.3"
 <img width="1214" height="1210" alt="image" src="https://github.com/user-attachments/assets/a25609e3-8ea6-4020-a75e-666eaa5a6cff" />
 <img width="1537" height="1264" alt="image" src="https://github.com/user-attachments/assets/aff82ac2-e5cf-4835-889e-1411428083cd" />
 <img width="541" height="471" alt="image" src="https://github.com/user-attachments/assets/484bceb3-275f-473a-a5ef-3efb75aa7df2" />
-
-
 
 
 ## 🛠 支援飾品清單 (持續更新)
