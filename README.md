@@ -12,6 +12,7 @@ Version: "7.0.0.3"
 - 發出"嗶嗶"兩聲蜂鳴聲作為提示音效，提醒使用者該頁面有寶藏 (目前未開放)
 
 ## 📦 安裝方式 (以Chrome舉例)
+安裝流程影片 [Youtube連結](https://youtu.be/lsG4ty9tgPU)
 1. 請確保已事先安裝 [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl) 瀏覽器擴充功能。  
 2. 點擊 **安裝腳本** 安裝這個[撿漏大師腳本](https://greasyfork.org/zh-TW/scripts/550173-cs2%E9%A3%BE%E5%93%81%E6%92%BF%E6%BC%8F%E5%A4%A7%E5%B8%AB-%E5%85%A5%E6%AA%94%E6%A8%A1%E6%9D%BF%E4%BB%A5%E5%8F%8A%E6%AD%B7%E5%8F%B2%E5%83%B9%E6%A0%BC%E6%9F%A5%E8%A9%A2-%E6%94%B9%E8%89%AF%E7%89%88by-neil)。 
 3. 對'Tampermonkey'擴充功能右鍵點擊管理擴充功能
